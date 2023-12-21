@@ -1,5 +1,3 @@
-link repositorio: https://github.com/lidia-veli/AMN-Metodos-EDO1
-
 # Métodos Numéricos para la resolución de EDOs de 1º orden
 
 ## Método de Euler
